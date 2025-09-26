@@ -30,9 +30,11 @@
    ```
 
 3. **Evaluate the Results of Our Model:**
-
+  
    **Reasoning Evaluation:**
-   Use [lm-evaluation-harness]([https://openai.com](https://github.com/EleutherAI/lm-evaluation-harness)) for reasoning evaluation
+  
+   - Use [lm-evaluation-harness](https://openai.com](https://github.com/EleutherAI/lm-evaluation-harness) for reasoning evaluation
 
    **Negotiation Evaluation:**
-   Use [NegotiationArena]([https://openai.com]([https://github.com/EleutherAI/lm-evaluation-harness](https://github.com/vinid/NegotiationArena))) for negotiation evaluation
+  
+   - Use [NegotiationArena](https://openai.com]([https://github.com/EleutherAI/lm-evaluation-harness](https://github.com/vinid/NegotiationArena)) for negotiation evaluation
