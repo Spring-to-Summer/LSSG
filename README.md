@@ -37,4 +37,4 @@
 
    **Negotiation Evaluation:**
   
-   - Use [NegotiationArena](https://github.com/EleutherAI/lm-evaluation-harness](https://github.com/vinid/NegotiationArena) for negotiation evaluation
+   - Use [NegotiationArena](https://github.com/vinid/NegotiationArena) for negotiation evaluation
